@@ -1,0 +1,7 @@
+C:\Users\arttu\Desktop\School\T23\T23\bin\Debug\T23.exe.config
+C:\Users\arttu\Desktop\School\T23\T23\bin\Debug\T23.exe
+C:\Users\arttu\Desktop\School\T23\T23\bin\Debug\T23.pdb
+C:\Users\arttu\Desktop\School\T23\T23\obj\Debug\T23.csprojAssemblyReference.cache
+C:\Users\arttu\Desktop\School\T23\T23\obj\Debug\T23.csproj.CoreCompileInputs.cache
+C:\Users\arttu\Desktop\School\T23\T23\obj\Debug\T23.exe
+C:\Users\arttu\Desktop\School\T23\T23\obj\Debug\T23.pdb
